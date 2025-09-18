@@ -6,7 +6,7 @@
 <img  height="180em" align="right" alt="Wukong" src="https://media1.tenor.com/m/mDgiJEPdWZIAAAAd/sun-wukong-monkie-kid.gif">
 
 <div>
-  <a href="https://beacons.ai/rafaballerini">
+  <a href="https://beacons.ai/CriticalAxz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CriticalAxZ&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
